@@ -1,0 +1,360 @@
+E100 Curcumin portakal sarısı. curcuma (turmeric) bitkisinin köklerinden elde edilir, suni olarak da üretilir. peynir, margarin ve fırın tatlılarında kullanılır
+E101 Riboflavin, Riboflavin-5-phosphate B2 vitamini ve renk. doğal olarak sebzelerde bulunur. yumurta, süt, karaciğer ve böbrekten de elde edilir. margarin ve peynirde kullanılır
+E102 Tartrazine FDC Sarı No:5. astım krizine (FDA** bunu onaylamasa da) ve çocuklarda kurdeşene (FDA**nın tahmini 1/10.000) neden olduğu bilinir. Ayrıca tiroid tümörü, kromozom hasarı, kurdeşen, hiperaktivite ve aspirin duyarlılığı ile de ilişkilendirilir. renkli içecek, tatlı, reçel, tahıl, çerez, konserve balık ve hazır çorbalarda kullanılır. Norveç ve Avusturyada kullanımı yasak.
+E104 Quinoline Yellow FDC Sarı No:10. ruj, saç bakım ürünleri, kolonya üretimi ve eczacılıkta kullanılır. deri yangısına neden olur. Avustralya, Amerika ve Norveçte kullanımı yasak.
+E107 Yellow 7G sarı renk. astımlılarda alerjik reaksiyon görülebilir. tipik ürünler hafif içeceklerdir. HACSG* sakınılmasını öneriyor. Avustralya ve Amerikada kullanımı yasak.
+E110 Sunset Yellow FCF, Orange Yellow S FDC Sarı No:6. sentetiktir. tahıl, pasta, tatlı, çerez, dondurma, içecek ve konserve balık ayrıca Berocca, Polaramine ve Ventolin şurup gibi ilaçların üretiminde kullanılır. Yan etkileri kurdeşen, rinit (burun akması), burun tıkanıklığı, alerji, hiper aktivite, böbrek tümörü, kromozom hasarı, karın ağrısı, bulantı ve kusma, hazımsızlik ve iştahsızlıktır. hayvanlarda tümöre neden olduğu görülmüştür. Norveçte kullanımı yasak.
+E120 Cochineal, Carminic acid, Carmines kırmızı renk. böceklerden elde edilir. Nadiren kullanılır. HACSG* sakınılmasını öneriyor
+E122 Azorubine, Carmoisine kırmızı renk. kömür katranı türevi. astımlılar ve aspirin alerjisi olanlarda kötü reaksiyonlar yapabilir. tipik ürünler şekerleme, marzipan ve jölelerdir.
+İsveç, Amerika, Avusturya ve Norveçte kullanımı yasak.
+E123 Amaranth FDC Kırmızı No:2. Aynı ismi taşıyan bir ottan üretilir. kek, meyve tatlı dolgular ve jölelerde kullanılır. astım, egzama ve hiperaktiviteye neden olur. Bazı hayvanlara yapılan testlerde doğum kusurları ve cenin ölümleri görülmüştür, kanserojen olabilir.
+Avusturya, Amerika, Rusya, Norveç ve diğer bazı ülkelerde kullanımı yasak.
+E124 Ponceau 4R, Cochineal Red A FDC Kırmızı No:4. sentetik kömür katranı. hayvanlarda kanserojen, astımlılar ve aspirin alerjisi olanlarda kötü reaksiyonlar yapabilir. Amerika ve Norveçte kullanımı yasak.
+E127 Erythrosine FDC Kırmızı No:3. Kiraz ve vişne, konserve sebze, muhallebi, tatlı, pasta ve çerezlerde kullanılır. Işığa karşı duyarlılığa ve thyroid hormonu seviyesini arttırıp hyperthyroidişme neden olabilir. 1990da farelerde yapılan çalışmada thyroid (guatr) kanserine neden olduğu saptanmıştır.
+Avustralya, Amerika ve Norveçte kullanımı yasak.
+E128 Red 2G Avustralya ve İngiltere dışındaki diğer bazı ülkelerde kullanımı yasak.
+E129 Allura red AC FDC Kırmızı No:40, sentetiktir. tatlılar, içecek ve garnitürlerde, eczacılık ve kozmetik ürünlerinde kullanılır. farelerde kanser ile ilişkilendirildi. Danimarka, Belçika, Fransa, Almanya, İsviçre, İsveç, Avusturya ve Norveçte kullanımı yasak.
+E131 Patent blue V Avusturya, ABD ve Norveçte kullanımı yasak.
+E132 Indigotine, Indigo carmine FDC Mavi No:2, sentetik kömür katranı türevi. yaygın olarak tablet ve kapsüllere eklenir. ayrıca dondurma, tatlı, fırınlı mamuller, şekerleme ve bisküvilerde kullanılır. bulantı, kusma, yüksek tansiyon, deri döküntüsü, solunum sorunları ve diğer alerjik reaksiyonlara neden olur. Norveçte kullanımı yasak.
+E133 Brilliant blue FCF FDC Mavi No:1. mandıra ürünleri, tatlılar ve içeceklerde kullanılır, Belçika, Fransa, Almanya, İsviçre, İsveç, Avusturya ve Norveçte kullanımı yasak.
+E140 Chlorophylis, Chlorophyllins yeşil renk. doğal olarak tüm bitkilerde bulunur. mum ve yağların boyanmasinda, eczacılık ve kozmetik ürünlerde kullanılır
+E141 Copper complexes of chloropyll and chlorophyllins zeytin rengi. bilinen yan etkisi yok
+E142 Green S yeşil renk. Sentetik kömür katranı türevi. Konserve bezelye, nane jöle ve soslarda, paketlenmış ekmek kırıntısı ve kek karışımlarında kullanılır. İsveç, Amerika ve Norveçte kullanımı yasak.
+E150(a) Plain caramel, koyu kahve renk. Sakarozdan yapılır. HACSG* sakınılmasını öneriyor. istiridye, soya, meyveler, konserve soslar, bira, viski, bisküvi ve tursularda kullanılır
+E150(b) Caustic sulphite caramel bkz E150(a)
+E150© Ammonia caramel bkz E150(a)
+E150(d) Sulphite ammonia caramel bkz E150(a)
+E151 Brilliant Black BN, Black PN. Siyah renk. Kömür katranı türevi. Kahverengi soslar ve kuş üzümü keklerde kullanılır. Danimarka, Belçika, Fransa, Almanya, İsviçre, İsveç, Avusturya, Avustralya, Amerika ve Norveçte kullanımı yasak.
+E153 Vegetable carbon siyah renk. Mangal kömürü boyası. Reçel, jöle ve meyan kökünde kullanılır. Avustralyada yalnızca bitkisel kökenli olanına izin verildi. Avustralyada hayvansal oalını ile Amerikada kullanımı yasak.
+E154 Brown FK Amerika kullanımı yasak.
+E155 Brown HT (Chocolate) kahve renk. Kömür katranı. Çikolatalı kekte kullanılır. Astımlılar ve aspirin alerjisi olanlarda kötü reaksiyonlar yapabilir. deri duyarlılığına neden olduğu bilinir. Danimarka, Belçika, Fransa, Almanya, İsviçre, İsveç, Avusturya, Amerika ve Norveçte kullanımı yasak.
+E160(a) Carotene, alpha-, beta-, gamma- portakal sarısı renk. İnsan vücudu onu karaciğerde A Vitaminine dönüştürür. Havuçta, turunçgillerde ve sebzelerde bulunur
+E160(b) Annatto (Arnatto, Annato). Bixin, norbixin kırmızı renk. Bixa orellana ağacından elde edilir. gövde ve kumai boyası, peynir boyası, tereyağı, margarin, tahıl, çerez, çorba, vernik üretiminde, ayrıca eczacılıkta (balgam sökücü olarak) ve tekstil sektöründe kullanılır. Kurdeşene neden olduğu bilinir, HACSG* sakınılmasını öneriyor
+E160© Paprika extract, capsanthin, capsorubin bazı ülkelerde kullanımı yasak.
+E160(d) Lycopene domates ve pembe greyfurtta bulunan kırmızı renkli karotenoid, kanser riskini azaltabilir
+E160(e) Beta-apo-8-carotenal (C 30) portakal rengi, bilinen yan etkisi yok
+E160(f) Ethyl ester of beta-apo-8-carotenic acid (C 30) portakal rengi, bilinen yan etkisi yok
+E161(b) Xanthophylls - Lutein sarı renk. Doğal olarak yeşil yaprakta, kadife çiçeği ve yumurta sarısında bulunur
+E161(g) Xanthophylls - Canthaxanthin sarı renk. Retinol. Bazı mantar, kabuklu hayvan, balık ve flamingo tüyünde bulunur.
+E162 Beetroot Red, Betanin mor renk. Pancardan elde edilir. Bilinen yan etkisi yok.
+E163 Anthocyanins menekşe rengi, çiçek ve bitki kaynaklı. Güvenli görünüyor
+E170 Calcium carbonate mineral tuz. Kaya minerali veya kemikten elde edilir. Diş macunu, beyaz boya, temizleme tozları, diyakoz şarabı, konserve sebze ve meyvede kullanılır. Yüksek dozlarda zehirlidir
+E171 Titanium dioxide beyaz renk. Diş macunu ve beyaz boyada kullanılır. Bilinen yan etkisi yok
+E172 Iron oxides and hydroxides siyah, sarı, kırmızı renk. som balığı ve karides ezmesinde kullanılır. Yüksek dozlarda zehirlidir
+E173 Aluminium bazı ülkelerde kullanımı yasak.
+E174 Silver bazı ülkelerde kullanımı yasak.
+E175 Gold bazı ülkelerde kullanımı yasak.
+E180 Latolrubine BK bazı ülkelerde kullanımı yasak.
+E181 Tannic acid. Tannins alkolde berraklaştırma ajanı. Fındık ve oak ağacı dallarından elde edilir. Doğal olarak çayda bulunur  KORUYUCULAR(E200-E290)
+Numara İsim Ayrıntılı bilgi
+E200 Sorbic acid. Doğal yolla etli ve zarlı kabuksuz meyvelerden, sentetik olarak da ketenden elde edilir. deri tahrişi yapabilir
+E201 Sodium sorbate Bilinen yan etkisi yok
+E202 Potassium sorbate bilinen yan etkisi yok
+E203 Calcium sorbate bilinen yan etkisi yok
+E210 Benzoic acid benzoin çiçeği, phenlycarboxylic acid, carboxybenzene olarak da bilinir. Asyada bulunan Benzoin ağacından sızan reçineden elde edilir. alkollü içecek, fırınlı mamuller, peynir, çiklet, çesni, dondurulmuş mandıra ürünleri, yumuşak tatlı ve likör üretiminde, kozmetik ürünlerde, eczacılıkta öksürüge karşı antiseptik ve mantara karşı merhem yapımında kullanılır. astıma (özellikle steroid astıma), sinirsel bozukluğa, sulphur bisulphite (222) ile reaksiyona ve çocuklarda hiperaktiviteye neden olarak gösterilir
+E211 Sodium benzoate antiseptik, düşük kalitede gıda koruyucu ve tat değiştirici. portakal sularında yüksek miktarda bulunur (250mlde 25mg), süt ve et ürünleri, çeşniler, fırınlı mamuller ve şaplı sekerlerde, ağız yoluyla alınan bir çok ilaçta (Actifed, Phenergan and Tylenol gibi) kullanılır. kurdeşene neden olduğu ve astımı ağırlaştırdığı bilinir
+E212 Potassium benzoate alerjik geçmişi olanlarda reaksiyonlara neden olabilir. kullanım için bkz 210
+E213 Calcium benzoate bkz 212
+E214 Ethyl p-hydroxybenzoate bazı ülkelerde kullanımı yasak.E215 Sodium ethyl p-hydroxybenzoate bazı ülkelerde kullanımı yasak.
+E216 Propyl p-hydroxybenzoate alerji ile ilgili olabilir
+E217 Sodium propyl p-hydroxybenzoate bazı ülkelerde kullanımı yasak.
+E218 Methyl p-hydroxybenzoate alerjik reaksiyonlar mümkün, deriye zararlı
+E219 Sodium methyl p-hydroxybenzoate bazı ülkelerde kullanımı yasak.
+E220 Sulphur dioxide kömür katranından saplanır, sülfür ve alçıtaşının yanması ile üretilir. tüm sülfürlü ilaçlar zehirlidir ve kullanımı sınırlandırılmıştır (Amerikada, FDA** çiğ meyve ve sebzelerde kullanımını yasaklamıştır). astım nöbetlerini azdırdığı ve böbrek fonksiyonları zayıflamış olanlarda metabolizmayı zorladığı, B1 vitaminini yok ettiği bilinir. tipik ürünler bira, hafif içecekler, kurutulmuş meyveler, meyve suyu, likör, şarap, sirke ve patates ürünleridir
+E221 Sodium sulphite taze portakal suyunda kullanılan berraklaştırma ajanı. bkz 220
+E222 Sodium hydrogen sulphite bkz 220
+E223 Sodium metabisulphite tedavi ajanı. bkz 220
+E224 Potassium metabisulphite bkz 220
+E225 Potassium sulphite bkz 220
+E226 Calcium sulphite bazı ülkelerde kullanımı yasak.
+E227 Calcium hydrogen sulphite bazı ülkelerde kullanımı yasak.
+E228 Potassium hydrogen sulphite bkz 220
+E230 Biphenyl, Diphenyl tarimsal amaçlarla kullanılabilir. tipik ürün türünç meyvesidir. bazı ülkelerde kullanımı yasak.
+E231 Orthophenyl phenol tarimsal amaçlarla kullanılabilir. tipik ürünler armut, havuç, seftali, erik, erik kurusu, sarmasik patatesi, türünç, ananas, domates, biber, kiraz, tüysüz seftalidir. bazı ülkelerde kullanımı yasak.
+E232 Sodium orthophenyl phenol bkz 231
+E233 Thiabendazole tarimsal amaçlarla kullanılabilir. tipik ürünler türünç, elma, armut, patates, muz, mantar, et ve süttür. bazı ülkelerde kullanımı yasak.
+E234 Nisin bakteriden sağlanan bir antibiyotik. birada, islenmış peynir ürünlerinde, domates ezmesinde bulunur
+E235 Natamycin bakteriden sağlanan bir küf önleyici. bazen candidiasisin ilaçla tedavisinde kullanılır. bulantı, kusma, anorexia, ishal ve deri tahrişine neden olur. tipik ürünler et ve peynirdir
+E236 Formic acid bazı ülkelerde kullanımı yasak.
+E237 Sodium formate bazı ülkelerde kullanımı yasak.
+E238 Calcium formate bazı ülkelerde kullanımı yasak.
+E239 Hexamethylene tetramine bazı ülkelerde kullanımı yasak.
+E249 Potassium nitrite renk baglayici ve et için kür ajanı. nitritler vücudun nefes daralmasi, bas dönmesi ve bas ağrısı ile sonuçlanabilecek oksijen taşıma kabiliyetini etkileyebilir. potansiyel kanserojendir. bebek ve küçük çocukların gıdalarında izin verilmemıştir
+E250 Sodium nitrite hiperaktivite ve diğer yan etkilere neden olabilir, potansiyel kanserojendir, nitrosaminei olusturmak için midede kimyasallarla birlesebilir. bir çok ülkede sinirlandirilmıştir, HACSG* sakınılmasını öneriyor
+E251 Sodium nitrate dölleyici olarak nitrik asitin üretiminde ve mayalanmış et ürünlerinde kullanılır (bkz 250)
+E252 Potassium nitrate hayvan artıklarından veya bitkilerden sağlanabilir. barut, patlayici, gübre üretiminde ve etin korunmasinda kullanılır. hiperaktivite ve diğer yan etkilere neden olabilir, potansiyel kanserojendir, bir çok ülkede sinirlandirilmıştir (bkz 249)
+E260 Acetic acid sirkenin ana maddesidir. agaç liflerinden sentetik olarak üretilir. tursu ve soslarda kullanılır
+E261 Potassium acetate gıda asidi. böbrek fonksiyonları zayıf insanlar sakinmalıdır. tipik ürünler sos ve tursulardir
+E262 Sodium acetate, Sodium diacetate gıda asidi, asitliği düzenleyici. bilinen yan etkisi yok
+E263 Calcium acetate gıda asidi, asitliği düzenleyici. ahşap alkolünün ve asetic asitin (sirke) üretiminde kullanılır
+E264 Ammonium acetate bulantı ve kusmaya neden olabilir
+E270 Lactic acid gıda asidi, asitliği düzenleyici. karbohidratların, kesilmış sütün suyu, patates, mışir nişastaşı ve pekmezde isitilip mayalanmasi ile üretilir. bebeklerin sindirimi zordur. tatlılar, salata sosu, hafif içkiler (bazen bira), bebe mamasi ve şekerlemelerde kullanılır
+E280 Propionic acid tüm propionatların migren agriları ile ilgili olduğu düsünülür. propionatlar doğal olarak mayalanmış gıdalarda, insan teri ve gevis getirenlerin sindirim organlarında bulunur, ayrıca suni olarak etilen, karbon monoksit, propionaldehit, doğal gaz, mayalanmış kagit hamuru veya çürümüs lif bakterisinden elde edilir. yaygın olarak ekmek ve un mamullerinde kullanılır
+E281 Sodium propionate migren ile ilgilidir. tipik ürünler un mamulleridir
+E282 Calcium propionate bkz 281
+E283 Potassium propionate bkz 281
+E290 Carbon dioxide sürücü, soğutucu. kireç üretiminden saglanır. alkolün etkisini arttirabilir. tipik ürünler şarap, hafif içkiler ve şekerlemedir  ANTİOKSİDANLAR, ASİTİK DÜZENLEYİCİLER(E296-E385)
+Numara İsim Ayrıntılı bilgi E296 Malic acid doğal (meyvelerden) veya sentetik yoldan saglanır. bebekler ve küçük çocuklar sakinmalıdır
+E297 Fumaric acid Fumaria cinsi (özellikle F.officianalis) bitkilerden veya glukoz ile mantarin mayalanmasindan saglanır. tat verici, asidite, antioksidan olarak hafif içeceklerde ve keklerde kullanılır
+E300 Ascorbic acid un isleme ajanı, C vitamini. sentetik olarak glukozdan sağlanabilir, doğal olarak sebze ve meyvelerde bulunur. et, kahvaltı tahılları, dondurulmuş balık ve şaraba eklenir
+E301 Sodium ascorbate C vitamininin sodyum tuzu
+E302 Calcium ascorbate C vitamininin kalsiyum tuzu, kalsiyum aksalat taslarınin olusumunu arttirabilir
+E303 Potassium ascorbate C vitamininin potasyum tuzu
+E304 Ascorbyl palmitate, Ascorbyl stearate askorbik asitin yağlı esteri, fonksiyonları E300 ile aynı
+E306, E307,
+E308, E309 Tocopherols, alpha-,gamma-,delta- E vitamini. soya, buğday, pirinç, pamuk tohumu, mışir gibi birçok sebzenin yağinda bulunur. doku yağları ve yağ asitlerinde antioksidan olarak çalışır, A vitamini oksidasyonunu önler. margarin ve salata soslarında kullanılır
+E310 Propyl gallate yağlı maddelerdeki eksimeyi önlemek için kullanılır. fındık kesesinden saglanır. gastrit veya deri tahrişine neden olabilir, kandaki bozukluk ve methemoglobinemia hastalığına neden olma egilimi bilindigi için gallatelere bebek ve küçük çocuk gıdalarında izin verilmemıştir. yağ, margarin, domuz yaği ve salata sosunda, bazen de paketlemede kullanılır
+E311 Octyl gallate bkz E310
+E312 Dodecyl gallate bkz E310
+E317 Erythorbic acid sakarozdan üretilir
+E318 Sodium erythorbate E317den üretilir
+E319 Tert-ButylHydroQuinone (TBHQ) petrol kökenli. HACSG* sakınılmasını öneriyor. bulantı, kusma ve sayıklamaya neden olabilir, 5 gramlık bir doz öldürücü sayılır. tipik ürünler yağ ve margarinlerdir
+E320 Butylated hydroxy-anisole (BHA) petrol kökenli. oksidasyon yüzünden bozulmayı geciktirir. yenilebilen yağlarda, çiklet, margarin, fındık, patates ürünleri ve polietilen gıda ambalajlarında kullanılır, bebe mamalarında izin verilmemiştir, bazılarında alerjik reaksiyon yapabilir, hiper aktiviteye, kanserojen, estrojen etkiler ve diğer olumsuzluklara sebep olabilir. yüksek dozlar laboratuar hayvanlarında tümöre neden olmuştur, 1958de Japonyada kullanımı yasak., uzmanlar İngilterede de yasaklanmasını istediler, fakat endüstrinin baskısı nedeniyle yasaklanamadı, McDonalds 1986da Amerikadaki ürünlerinden bu maddeyi çıkardı
+E321 Butylated hydroxy-toluene (BHT) petrol kökenli. bkz E320
+E322 Lecithin soya fasulyesi, yumurta sarısı, yer fıstığı, mısır veya hayvani kaynaklardan elde edilen emülgator. zehirli değildir ancak aşırı doz mideyi bozar, iştahı keser ve terlemeye neden olur. margarin, çikolata, mayonez ve süt tozunda yağların bileşimini sağlamak için kullanılır. bitkisel tipi tercih edilmelidir
+E325 Sodium lactate sütten elde edilir (laktik asit). domuz renini (sütü pihtilastiran bir enzim) veya kesilmiş süt suyu içerebilir, laktoz tahammülsüzlüğü olan küçük çocuklar ters reaksiyonlar gösterebilir
+E326 Potassium lactate bkz E325
+E327 Calcium lactate bkz E325
+E328 Ammonium lactate bkz E325
+E329 Magnesium lactate bkz E325
+E330 Citric acid gıda asidi, doğal olarak türünçgillerden elde edilir, bisküvi, konserve balık, peynir ve peynir ürünleri, bebe mamasi, kek, çorba, çavdar ekmeği, hafif içecekler ve mayalanmış et mamullerinde kullanılır
+E331 Sodium citrates gıda asidi. bilinen yan etkisi yok
+E332 Potassium citrates gıda asidi. bilinen yan etkisi yok
+E333 Calcium citrates gıda asidi. küçük miktarlarda bilinen yan etkisi yok
+E334 Tartaric acid gıda asidi. çiğ meyvelerden elde edilir. küçük miktarlarda bilinen yan etkisi yok
+E335 Sodium tartrates gıda asidi. bilinen yan etkisi yok
+E336 Potassium tartrates gıda asidi. bilinen yan etkisi yok
+E337 Sodium potassium tartrate gıda asidi. bilinen yan etkisi yok
+E338 Phosphoric acid gıda asidi. fosfattan elde edilir. peynir ürünlerinde kullanılır. bilinen yan etkisi yok
+E339 Sodium phosphates mineral tuz. eczacılıkta müshil olarak, tekstil boyamada sabitleme ajanı olarak kullanılır. yüksek dozlar vücuttaki kalsiyum-fosfor dengesini bozabilir
+E340 Potassium phosphates bkz E339
+E341 Calcium phosphates mineral tuz. kaya ve kemikte bulunur. eczacılıkta antaşıt ve emaye üretiminde parlatıcı olarak kullanılır
+E343 Magnesium phosphates temel mineral
+E350 Sodium malates bilinen yan etkisi yok
+E351 Potassium malate bilinen yan etkisi yok
+E352 Calcium malates bilinen yan etkisi yok
+E353 Metatartaric acid bilinen yan etkisi yok
+E354 Calcium tartrate güvenli görünüyor
+E355 Adipic acid kök adipozda (bir nevi hayvani yağ) bulunan gıda asidi
+E357 Potassium adipate bilinen yan etkisi yok
+E363 Succinic acid bazı ülkelerde kullanımı yasak.
+E365 Sodium fumarate gıda asidi. fumaric asit tuzu. Fumaria cinsi (özellikle F.officianalis) bitkilerden elde edilir
+E366 Potassium fumarate bilinen yan etkisi yok
+E367 Calcium fumarate bilinen yan etkisi yok
+E370 1,4-Heptonolactone bazı ülkelerde kullanımı yasak.
+E375 Niacin B3 vitamini. doğal olarak fasulye, bezelye ve diğer baklagillerde, süt, yumurta, et, kümes hayvanları ve balıkta bulunur. günlük 1000 mgi asan dozlarda seker hastalığı, gastrit, karaciğer ve göz zararları ve gut hastalığına yol açan, kandaki ürik asit seviyesinin yükselmesine neden olabilir. günlük 50-100 mglik dozlarda zararsız fakat acı verici kızarıklıklar, özellikle aç karnina alınmış ise bas ve mide ağrısı yapabilir
+E380 Tri-ammonium citrate karaciğer ve pankreas fonksiyonlarına müdahale edebilir
+E381 Ammonium ferric citrates temel mineral, sitrik asitten elde edilen gıda asidi. kahvalti tahıllarına ve diyet formüllerine demir eklemek için kullanılır
+E385 Calcium dişodium EDTA bazı ülkelerde kullanımı yasak.
+ KOYULAŞTIRICILAR, EMÜLGATÖRLER, STABİLİZÖRLER(E400-E495)
+Numara İsim Ayrıntılı bilgi E400 Alginic acid kıvam arttırıcı bitkisel reçine. yosundan elde edilir. muhallebi, likör, sekerli süt, krema ve yogurtlarda kullanılır. küçük miktarlarda bilinen yan etkisi yok, büyük miktarlar besinlerin sindirimini zorlaştırabilir
+E401 Sodium alginate bkz E400
+E402 Potassium alginate bkz E400
+E403 Ammonium alginate bkz E400
+E404 Calcium alginate bkz E400
+E405 Propylene glycol alginate kıvam arttırıcı bitkisel reçine, petrolden saglanır
+E406 Agar kıvam arttırıcı bitkisel reçine. kırmızı yosundan elde edilir. bazen müshil olarak kullanılır. islenmış et ve dondurmada bulunur
+E407 Carrageenan yosundan alınan lif. ürüne etilen oksit ile eklendiğinde mikroplanma yapabildigi için kanser ile ilişkilendirildi, etilen klorohidrin olusumundaki bu sonuç (yüksek kanserojen bileşim), zehirlenme riski taşıyor, ülser ve kanser carrageenan için katkı olarak kullanilamayacak en ciddi olumsuzlugu anlatir fakat her nasılsa doğal carrageenan gut ıgeriletir
+E410 Locust bean gum keçiboynuzu veya akasya (Ceratonia silique) dan elde edilir. sapli seker, likör, esans, bazı un ürünleri, salata sosu ve meyve suyunda, sik olarak da kafeinsiz çikolatada kullanılır. kolesterol seviyesini düsürebilir
+E412 Guar gum hint kökenli Cyamoposis tetragonolobus ağacınin çekirdeginden saglanır. Amerikada sigir beslenmesinde kullanılır. bulantı, mide gazi ve kramplara neden olabilir, kolesterol seviyesini düsürebilir
+E413 Tragacanth Astragalus gummier ağacınin reçinesi. gıdalar, ilaçlar (burun ilaçları, iksir ve tabletler) ve kozmetikte (tutkal olarak) kullanılır. alerji yapabilir
+E414 Acacia Acacia Senegal ağacının özsuyundan alınır. kolaylikla sindirilir. alerjen olabilir, mukoza zari tahrişini azaltabilir
+E415 Xanthan gum mışir sekerinin bir bakteri ile mayalanmasından elde edilir
+E416 Karaya gum Sterculia urens ağacından elde edilir. su eklendiğinde kendi hacmini 100 kez büyütebilmesi sebebiyle sik olarak dondurma, muhallebi ve tatlılarda, keçiboynuzu (E 410) ile birlestirilerek, doldurucu olarak kullanılır. alerjen olabilir
+E417 Tara gum Equador, Peru ve Kenyada yetisen tara bitkisinden (Caesalpinia Spinosa) elde edilir
+E420 Sorbitol suni tatlandırıcı ve nem tutucu. etli ve zarlı kabuksuz meyvelerden veya sentetik olarak glukozdan elde edilir. sapli seker, kurutulmuş meyve, hamur tatlısi, şekerleme, düşük kalorili gıdalar, şuruplar ve gözle ilgili preparatlar ile koruyucu olarak kozmetikte kullanılır. bebek ve küçük çocukların gıdalarında izin verilmemıştir, mide rahatsizliklarına neden olabilir
+E421 Mannitol suni tatlandırıcı ve nem tutucu. yosun veya mannaash ağacından elde edilir. alerjen olabilir, bulantı ve kusmaya yol açabilir, diyare ve böbrek yetmezliğine neden olduğu için bebek gıdalarında izin verilmemıştir. tipik ürünler düşük kalorili gıdalardır
+E422 Glycerol tatlandırıcı ve nem tutucu, yağlı renksiz alkol. doğal yağların alkalilerle ayrismasi sonucu elde edilir. petrol ürünlerinden ve bazen propilenden sentetik olarak veya sekerden mayalanarak da elde edilir. büyük miktarlar bas ağrısı, susuzluk, bulantı ve yüksek kan sekerine sebep olabilir. tipik ürünler sos, peynir, kristalize edilmış ve kurutulmuş meyve, likör, votka, şekerleme ve düşük kalorili gıdalardır
+E430 ? ?
+E431 Polyoxyethylene stearate ?
+E432 Polysorbate 20 bazı ülkelerde kullanımı yasak.
+E433 Polysorbate 80 hayvani yağ asitlerinden elde edilen emülgatör. sentetik tatlandırıcı, köpük önleme ajanı ve hamur sartlandirici olarak kullanılır. yağda çözülen maddelerin emilisini arttirabilir
+E434 Polysorbate 40 bazı ülkelerde kullanımı yasak.
+E435 Polysorbate 60 bkz 433
+E436 Polysorbate 65 bkz 433
+E440(a) Pectin doğal olarak elma kabuğunda bulunur. koyulaştırılmış reçel, jöle ve soslarda kullanılır. büyük miktarlar geçici mide gazi veya bağırsak rahatsızlığına neden olabilir
+E440(b) Aminated pectin bilinen yan etkisi yok
+E441 Gelatin alerjen olabilir, E220 içerebilir, alerjik ve astımlılar sülfitlerden sakinmalıdır!
+E442 Ammonium phosphatides bilinen yan etkisi yok
+E450 Diphosphates yüksek dozlar vücuttaki kalsiyum-fosfor dengesini bozabilir
+E460 Cellulose bilinen yan etkisi yok
+E461 Methyl cellulose mide gazi, tansiyon düşüklüğü ve kabıza neden olabilir
+E463 Hydroxypropyl cellulose bazı ülkelerde kullanımı yasak.
+E464 Hydroxypropyl methyl cellulose bilinen yan etkisi yok
+E465 Ethyl methyl cellulose bilinen yan etkisi yok
+E466 Carboxy methyl cellulose, Sodium carboxy methyl cellulose bilinen yan etkisi yok
+E469 Sodium caseinate bilinen yan etkisi yok
+E470 Fatty acid salts bazı ülkelerde kullanımı yasak.
+E471 Mono  di glycerides of fatty acids bilinen yan etkisi yok
+E472 Fatty acid esters of glycerides bilinen yan etkisi yok
+E473 Sucrose esters of fatty acids bilinen yan etkisi yok
+E474 Sucroglycerides bazı ülkelerde kullanımı yasak.
+E475 Polyglycerol esters of fatty acids bilinen yan etkisi yok
+E476 Polyglycerol polyricinoleate bilinen yan etkisi yok
+E477 Propylene glycol esters of fatty acids petrolden elde edilir. bilinen yan etkisi yok
+E478 ? ?
+E479(b)a Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids ?
+E480 Dioctyl sodium sulphosuccinate çalismaların sonuçları bekleniyor
+E481 Sodium stearoyl-2-lactylate bilinen yan etkisi yok
+E482 Calcium stearoyl-2-lactylate bilinen yan etkisi yok
+E483 Stearyl tartrate bazı ülkelerde kullanımı yasak.
+E491 Sorbitan mono stearate bilinen yan etkisi yok
+E492 Sorbitan tristearate yağda çözülen maddelerin emilisini arttirabilir
+E493 Sorbitan monolaurate bazı ülkelerde kullanımı yasak.
+E494 Sorbitan mono-oleate bazı ülkelerde kullanımı yasak.
+E495 Sorbitan monopalmitate bazı ülkelerde kullanımı yasak.İNCELTİCİLER(E500-E585)
+Numara İsim Ayrıntılı bilgi E500 Sodium carbonates küçük miktarlarda bilinen yan etkisi yok
+E501 Potassium carbonates bilinen yan etkisi yok
+E503 Ammonium carbonates mukozayi tahriş edici
+E504 Magnesium carbonate eczacılıkta antaşıt ve müshil olarak kullanılır
+E507 Hydrochloric acid küçük miktarlarda güvenli
+E508 Potassium chloride büyük miktarlar mide ülserine neden olabilir
+E509 Calcium chloride tuzlu sudan elde edilir
+E510 Ammonium chloride karaciğer ve böbrek fonksiyonları zayıf olanlar sakinmalıdır. tipik ürünler unlu mamullerdir
+E511 Magnesium chloride magnezyum bir temel mineraldir
+E513 Sulphuric acid bazı ülkelerde kullanımı yasak.
+E514 Sodium sulphates vücudun su dengesini bozabilir
+E515 Potassium sulphates bilinen yan etkisi yok
+E516 Calcium sulphate kireçtaşından elde edilir
+E518 Magnesium sulphate müshil
+E519 Copper sulphate temel mineral
+E524 Sodium hydroxide bazı ülkelerde kullanımı yasak.
+E525 Potassium hydroxide bazı ülkelerde kullanımı yasak.
+E526 Calcium hydroxide küçük miktarlarda bilinen yan etkisi yok
+E527 Ammonium hydroxide bazı ülkelerde kullanımı yasak.
+E528 Magnesium hydroxide bazı ülkelerde kullanımı yasak.
+E529 Calcium oxide küçük miktarlarda güvenli
+E530 Magnesium oxide bazı ülkelerde kullanımı yasak.
+E535 Sodium ferrocyanide bilinen yan etkisi yok
+E536 Potassium ferrocyanide kömür gazi üretimi alt ürünü. düşük zehirli
+E540 Dicalcium diphosphate bazı ülkelerde kullanımı yasak.
+E541 Sodium aluminium phosphate, Acidic bazı ülkelerde kullanımı yasak.
+E542 Bone phosphate kemikten elde edilir. kahve makineleri için kurutulmuş sütte kullanılır
+E544 Calcium polyphosphates bazı ülkelerde kullanımı yasak.
+E545 Ammonium polyphosphates bazı ülkelerde kullanımı yasak.
+E551 Silicon dioxide gıda kullanımında bilinen yan etkisi yok
+E552 Calcium silicate kireçtaşından ve silisli diatom iskeletinden elde edilir. antaşıttir. bilinen yan etkisi yok
+E553(a) Magnesium silicates bazı ülkelerde kullanımı yasak.
+E553(b) Talc mide kanseri ile ilişkilendirildi, tipik ürünler parlatilmış pirinç, çikolata, şekerlemelerdir
+E554 Sodium aluminium silicate tuz, kurutulmuş süt ürünleri ve unlarda kullanılır. alüminyumun hamilelikte plasenta problemlerine neden olduğu bilinir ve Alzheimer hastalığı ile ilgili görülür
+E556 Calcium aluminium silicate minerallerden elde edilir. süttozlarında kullanılır. bkz E554
+E558 Bentonite bilinen yan etkisi yok
+E559 Aluminium silicate (Kaolin) bilinen yan etkisi yok
+E570 Stearic acid hayvan kökenli olabilir. bkz stearatlar
+E572 Magnesium stearate gıda kullanımında bilinen yan etkisi yok
+E575 Glucono delta-lactone bilinen yan etkisi yok
+E576 Sodium gluconate bazı ülkelerde kullanımı yasak.
+E577 Potassium gluconate bilinen yan etkisi yok
+E578 Calcium gluconate bilinen yan etkisi yok
+E579 Ferrous gluconate renk tutma ajanı. demir ve glukozdan elde edilir. zeytin ürünleri ve demir ilavelerinde kullanılır. küçük miktarlarda güvenli
+E585 Ferrous lactate ?  LEZZET ARTTIRICILAR(E620-E640)
+Numara İsim Ayrıntılı bilgi E620 Glutamic acid tat arttırıcı, tuz maddesi. amino asit birçok hayvan ve bitki proteininde bulunur, ticari amaçla bakteriden elde edilir. MSG (E621) ile benzer problemlere neden olabilir, küçük çocuklar sakinmalıdır
+E621 Monosodium glutamate (MSG) pekmezin mayalanmasından elde edilen tat arttırıcı, tuz maddesi. astımlılarda yan etkisi görülebilir, bebek ve küçük çocuk gıdalarında izin verilmemıştir. tipik ürünler konserve sebze ve ton balığı, salata sosu ve dondurulmuş gıdalardır
+E622 Monopotassium glutamate bulantı, kusma, diyare ve karin kamplarına neden olabilir. tipik ürünler düşük sodyum tuzu maddeleridir
+E623 Calcium diglutamate tuz maddesi, bilinen yan etkisi yok
+E624 Monoammonium glutamate tuz maddesi, bilinen yan etkisi yok
+E625 Magnesium diglutamate tuz maddesi, bilinen yan etkisi yok
+E626 Guanylic acid gut hastalığını baslatabilir
+E627 Dişodium guanylate sardalye veya maya özütünden saglanır. gut hastalığını baslatabilir, bebek ve küçük çocuk gıdalarında izin verilmemıştir
+E629 Calcium guanylate gut hastalığını baslatabilir
+E631 Dişodium inosinate et veya sardalyeden hazirlanmış olabilir. gut hastalığını baslatabilir, bebek ve küçük çocuk gıdalarında izin verilmemıştir
+E633 Calcium inosinate gut hastalığını baslatabilir
+E635 Dişodium 5-ribonucleotide agiz yoluyla alinmasi ile 30 saat içinde kasintili reaksiyonlara sebep olabilir, kasintilar iyi huylu veya habis farkliliklar gösterebilir, reaksiyon, alınan dozla baglantili ve giderek artan türdedir, bazı kisiler buna daha duyarli olabilir. tipik ürünler tadlandırılmış cipsler, çabuk hazirlanabilen sehriyeler ve parti pastalarıdir. korunmalıdır, bazı ülkelerde kullanımı yasak.
+E636 Maltol melez çamin kabuğundan, çam ibresinden, hindibadan, yağ ve kızartılmış malttan elde edilir. sentetik olarak da üretilir
+E637 Ethyl maltol maltol (E636) dan elde edilir
+E640 Glycine  its sodium salt ?   MİNELEYİCİLER, TATLANDIRICILAR(E900-E1520)
+Numara İsim Ayrıntılı bilgi
+E900 Dimethyl polysiloxane silikon bazlı
+E901 Beeswaxes donuklaştırma ajanı, balmumlu meyvelerde kullanılır (bkz ari ürünleri). bazen alerjik reaksiyonlara neden olabilir
+E903 Carnauba wax Güney Amerika palmiyesinden elde edilir. kozmetikte, mürekkeplerde ve balmumlu meyvelerde kullanılır. bazen alerjik reaksiyonlara neden olabilir
+E904 Shellac böceklerden elde edilir. bazen deri tahrişine neden olabilir
+E905 Paraffin, Microcrystalline wax hafif müshil, yağların ve yağda çözünen vitaminlerin emilimini yavaslatabilir, barsak kanserine yol açabilir. tatlılarda, maya üretiminde, vitamin tabletlerinde, kurutulmuş meyve, şekerleme ve kolali ürünlerde kullanılır
+E907 Refined microcrystalline wax bazı ülkelerde kullanımı yasak.
+E913 Lanolin koyun yününden elde edilir
+E920 L-Cystein un isleme ajanı. hayvan saçi ve tavuk tüyünden elde edilir
+E921 L-Cystin bkz E920
+E924 Potassium bromate büyük miktarlar bulantı, kusma, diyare ve sancılara neden olabilir. tipik ürünler un ürünleridir
+E925 Chlorine gıdaları tahrip eder, kanserojendir. bazen mikropları öldürmek için suya karistirilir. tipik ürünler unlu ürünlerdir
+E926 Chlorine dioxide bkz E925
+E927 Azodicarbonamide bazı ülkelerde kullanımı yasak.
+E928 Benzoyl peroxide unun rafine edilmesi sirasinda carotenoidlerin beyazlamasi için kullanımi FDA* tarafından onaylandi. alerjik geçmişi olanlar sakinmalıdır, bkz E210
+E931 Nitrogen besinleri dondurma ve vakumla paketlemede kullanılır. güvenli görünüyor
+E932 Nitrous oxide küçük miktarlarda güvenli görünüyor
+E950 Acesulfame potassium (Acesulfame K) yüksek yoğunluklu, kalorisiz tatlandırıcı. sekerden yaklasik olarak 200 kat daha fazla tatlandırır. 1967de Hoechst AG tarafından keşfedildi. marka olarak "Sunett" ismiyle anılır. fırınlanmış yiyecekler, dondurulmuş tatlılar, şekerlemeler, mandıra ürünleri, pastalar, farmasotik olarak ağız hijyeni ve son zamanlarda içeceklerde kullanılmaktadır. gıdalarda geniş bir kullanım için onaylanmamıştir. "The Center for Science in the Public Interest (CSPI)" yapay tatlandırıcılar aspartam, sakarin ve asesülfam potasyumu "en kötü 10 katkı" listesine dahil etmiştir. bu üç tatlandırıcının da hayvanlarda kansere neden olduğu tespit edilmiştir ve kanser riskinizi arttırabilir
+E951 Aspartame suni tatlandırıcı, çok fazla yan etkisi var, bazıları aspartama karşı alerji duyar, bu insanlarda migren en önemli reaksiyondur
+E952 Cyclamic acid suni tatlandırıcı, migren ve diğer reaksiyonlara neden olduğu bilinir, kanserojen olabilir, fare testis ve embriyolarında yapılan testlerde hasara neden olmuştur, kansere yol açtığı için Amerika ve İngilterede kullanımı yasak.
+E954 Saccharines suni tatlandırıcı, (kanserojen olarak bilinen) tolueneden elde edilir. 1977de Amerikada kullanımı yasak., fakat etiketinde "laboratuar hayvanlarında kansere neden olduğu kabul edilen sakarin içerdiği için, bu ürünün kullanılması sağlığınıza zararlı olabilir" yazılarak tekrar kullanıldı
+E957 Thaumatin suni tatlandırıcı, tropikal thaumococcus danielli ağacından elde edilen bir protein. şarap, ekmek ve meyvelerin tatlandirilmasinda kullanılır
+E965 Maltitol, Hydrogenated glucose syrup nem tutucu. gıda enzimleri ile ayristirilir. şekerleme, kurutulmuş meyve ve düşük enerjili gıdalarda kullanılır. yüksek konsantrasyonlarda müshildir
+E967 Xylitol nem tutucu. ahududu, erik, kıvırcık ve hindibada bulunur, ticari amaçla kağıt hamurundan üretilir. farelerle yapılan testlerde böbrek taşı, idrar yolu etkileri ve psikolojik huzursuzluklara neden olmuştur. düşük enerjili gıdalar, karbohidratlandırılmış tatlılar, dondurma ve reçellerde kullanılır
+E999 Quillaia extract köpük ajanı, emülgatör, doğal nemlendirici. Quillaia Saponaria ağacından elde edilir. bira ve sodada kullanılır. ciltteki yağsızlığı azalttığı ve iyileşmeyi geliştirdiği bilinir
+E1100 Amylase küf mantari veya domuz pankreasindan elde edilir
+E1200 Polydextrose küçük dozlarda güvenli görünüyor
+E1201 Polyvinylpyrrolidone, PVP dağıtma ajanı, tablet kaplayıcı. suni tatlandırıcılarda kullanılır
+E1202 Polyvinylpolypyrrolidone, PVPP şarap ve bira için (fenolik bileşimleri ayırıp çıkararak) berraklastirma ajanı, renk stabilizörü
+E1400-E1450 Starches bilinen yan etkisi yok
+E1505 Triethyl acetate vücutta kısmen alkole dönüşür
+E1510 Ethanol alkol
+E1517, E1518 Glycerol acetates glycerolden elde edilen nem tutucu ve çözücü. Amerikada taze meyveleri kaplamak için kullanılır
+E1520 Propylene glycol nem tutucu, nemlendirme ve dağıtma ajanı, petrol bazlı. gliserine benzer tadı çocuk ilaçlarında onu popüler yapmıştır. tropikal krem ve merhem, kozmetik ve saç bakim ürünlerinde kullanılır. (damardan verildiğinde) öldürücü kalp krizleri görülmüştür, merkezi sinir sistemi depresyonu ve deri yanığı oluşabilir  NUMARASIZlar
+    Albumina
+    Ambergrisa balinadan elde edilir
+    Arachidonic acida karaciğer, beyin veya hayvani beze ve yağlardan elde edilir
+    Aronia aronia arbutifoliadan elde edilir. tat arttırıcı olarak jöle, puding, unlu tatlılar, yoğurt, süt tatlıları krema, homojenize peynir, şekerleme, gevrek kekler, meyve kremaları, dondurma ve çabuk içeceklerde kullanılır
+    Aspartic acida aspartamdan elde edilir (bkz E951)
+    Betainea yağdan elde edilir
+    Biotin vitamin B kompleksinin uzantısı olan renksiz bir vitamin. özellikle maya, karaciğer ve yumurta sarısında bulunur. bilinen bir yan etkisi yok, araştırılıyor
+    Caffeine doğal olarak çay, kola meyvesi ve kahvede görülen bir alkali. yüksek dozlarda zehirlidir. kalp çarpintisi, yüksek tansiyon, kusma, adale kasılması, bas ağrısı, diyare (ishal), sik idrara çıkma, su kaybı, uykusuzluk, mide krampı, el titremeleri ve seğirmelere sebep olabilir. müshil rolü oynar, ayrıca vücuttaki depolanmış kalsiyum miktarını azaltır. hafif yatıştırıcı olarak kullanılır
+    Casein sütün gluten ile benzerlik gösteren moleküler yapıya sahip bir fosfoproteinidir. celiac hastaları korunmalıdır
+    Catalasea sigir ciğerinden elde edilir
+    Cholesterina
+    Cinnamon ağaç kabuğundan yapılan bir baharat. alerjik olabilir
+    Citrus Red No:2 hayvanlarda kansere neden olmuştur. portakal kabuklarının boyanmasında kullanılır
+    Clove Bud Oil karanfil tomurcuğundan (syzygium atmaticum) damitilan naturel yağ. alerjik olabilir
+    Civeta kediden elde edilir
+    Colin bitartratea hayvani doku
+    Collagena
+    Enzymea
+    Erythritola mışir nişaştasından alınan bir seker (dextrose) ile başlayan bir mayalama süreci ile üretilir, dana midesinden de elde edilir. içecekler ve şekerleme ürünlerinde tatlandırıcı olarak kullanılır
+    Ethyl Vanillin yapay vanilya kokulandırıcı, aslından 3 1/2 kez daha güçlü ve ucuz, bu da neden üreticilerin hafif içecekler, dondurma ve fırınlanmış ürünlerde bu maddeyi kullandıklarını açıklıyor. genel olarak güvenli kabul edilir
+    Evans Blue CI Direct Blue 53 deri yangısı
+    FDC Green No:3 Fast Green mesane tümörüne neden olur
+    FDC Red No:102 New Coccine alerjen. gıdalarda kullanımına izin verilmez
+    FDC Yellow No:11 deri yangısı
+    Fructose bu karbohidrat saf seker (monosaccharide) doğal olarak balda ve taze sebzelerde bulunur. fırıncilar onu kek, ekmek ve kurabiyeleri esmerleştirmek için kullanırlar
+    Gentian Violet CI Basic Violet No:3 deri yangısı
+    Glucuronolactone, Glucuronic acida doğal olarak vücutta meydana gelen bir maddedir, karaciğerde glucosedan yapılır, metabolizmanin uyarilmasina ve böylece vücuttan zehirlerin atılmasına yardim eder. ayrıca bitkilerde (baslıca reçinelerde) bulunur ve ayrıca tüm hayvanlarda lif ve bağlantı dokularının önemli bir unsurudur
+    Glycerides yağ komponentleridir. stabilize sosis ve sucuk, domuz yağı, bitkisel yağlar, margarin ve hamur yağında kullanılır, en yaygın olanı (FDA* kati sınırlar empoze etse de) "monoglicerid sitrat"tir
+    Glycogena
+    Gliadin buğday, ana maddesidir. ekmek, pasta, kek, kurabiye ve bir çok fırınlanmış üründe. şehriye ve makarnada ana katkıdır. celiac hastaları korunmalıdır
+    Guaiacol kimyasal ürünlerde balgam sökücü olarak kullanılır
+    Hormonea
+    Hydrolyzed Vegetable Protein (HVP) tahıl gluteni. gluten, monocotyledoneae (monocots) cinsinin alt kategorisi olan bitkilerde bulunan proteindir. bu bitkiler buğday, yulaf, arpa ve çavdarın da içinde bulundugu tahıl familyasinin elemanidirlar (türevleri malt, nişasta, hidrolize bitki proteinleri, tekstürize bitki proteinleri, sirke, alkol ve tatlandırıcılardir). celiac hastaları korunmalıdır, celiac hastalığı (celiac sprue veya gluten-sensitive enteropathy) ince bağırsak mukozasındaki bir hassasiyetin sebep olmasıyla besinlerin kötü emilimi seklinde ortaya çikan kronik bir hastalıktır. paketlenmiş hazır gıdalar, gıda türevleri ve konserve ürünlerde, ayrıca ilaç hazırlama ve özellikle vitamin ve mineral ilavelerinde kullanılır
+    Hydrolyzed Plant Protein (HPP) HVP ile ayni
+    Keratina saç ve tüyden elde edilir
+    Lipid, Lipoida
+    Lysine-La
+    Lysine-DLa erythritol ile benzer madde
+    Maltodextrin, Mdltrin doğal, kompleks bir karbohidrattir, (dextrose, fructose, sucrose gibi) temel seker degildir. patates veya mışır nişastaşından elde edilebilir. tatlı, meşrubat, bira, dondurma, konserve, süt tozu, kek, bisküvi ve ekmek gibi ürünler için gıda endüstrisinde. ayrıca ilaç, tekstil, matbaacılık ve boyacilik, kagit yapimi, petrol sondaj sektöründe de kullanılır. genel olarak güvenli sayılır
+    Menthol özellikle nane yağında bulunan kristal alkol, keskin koku ve serinletici özelliğe sahiptir. alerjik olabilir
+    Methioninea proteinden elde edilir
+    Neutral Red deri yangısı
+    Nucleic acida hücrelerden elde edilir
+    Oleamine, Oleic acida
+    Renneta dana midesinden elde edilen peynir mayası
+    Oxysterina
+    Palmitic acida
+    Panthenola
+    Pepsina
+    Phenylalanine, Phenylanine temel amino asit. vücut onu bazı hormonlar (epinephrine, norepinephrine, thyroxine, cholecystokinin) ve melanini, (esmer deri pigmenti) üretmek için kullanir. cholecystokinin istah azalmasina yol açar (bu, biçimli bir vücut veya sabit kilo olusturmak için faydali olabilir). phenylalaninein agri azaltici etkisi, atletik insanlarda kuvvetli egzersizlerin yol açtigi adale, bag, eklem ve kiris agriları, kizarma ve kasilmaların giderilmesi için kullanılabilir
+    Phenylephrine burun tıkanıklığıni gideren dekonjestan. eczacılıkta kullanılır. yan etkileri bulantı, mide rahatsizligi, istah kaybi, asabiye, huzursuzluk, bas dönmesi, bas ağrısı, gögüs ağrısı, çarpinti, bunalim, korku, zor veya agrili idrar atisi ve uykusuzluktur
+    Phospholipida peynir mayası
+    Polypeptidesa
+    Progesteronea
+    Salicylate salisilik asit tuzu. şekerleme, pasta ve hafif içeceklerde kullanılır
+    Quinine dihydrochloride, Quinine sulfate cinchona ağacınin kabuğundan çikarilan zehirli alkaloid. tatlandırıcı olarak sodali meşrubatlarda (öncelikle limon ve tonik) ve malarıa hastalığının tedavisinde kullanılır. yan etkileri bas ağrısı, bulantı, kulak çinlamasi ve bulanik görmedir. FDA* kullanilabilecek miktari sinirlamıştir
+    Taurine temel olmayan amino asit. methionine ve cysteine amino asitlerinin sentezi ile karaciğerde üretilir, B6 vitamini sürece yardim eder. insülin aktivitesi üzerinde etki yapabileceginden, diabetik ve hipoglisemik hastalar tibbi gözetim altinda kullanmalıdır. aşırı tüketim diyare ve peptik ülsere yol açabilir
+    Thiamine B1 vitamini kaynagi. enerji metabolizmasinda bir koenzim olarak çalışır, istahi, beslenme ve sinir sistemlerini destekler. yüksek dozlardaki yan etkileri bas ağrısı, asabiye, nabız artisi, titreme ve zafiyettir
+    Thimerosal civa içeren çok etkili bir koruyucu. FDA* 30dan fazla lisansli asi ve biyolojik ürünlerde kullanildigini tahmin etmektedir. civa zamanla vücuttan atilir. sinir sistemi civanin bütün formlarına karşı çok duyarlidir, yüksek seviyede metalik, inorganik veya organik civaya maruz kalma, beyin, böbrekler ve cenin gelismesinde kalici hasara yol açabilir, beyindeki fonsiyonunun etkisi asabiye, ürkeklik, titreme, görme veya duyma degisikligi ve hafiza problemleri ile sonuçlanabilir
+    Torula kagit yapimindaki hamurlama esnasinda yan ürün olarak agaç sekerinden elde edilen yüksek protein. S tipi, bebe mamaları ve zahirelerde, F tipi, sigir, balık ve tavukların besinlerinde kullanılır. saman nezlesi ve astım açisindan alerjendir
+    Zinc insanlar için temel eleman. doğal olarak et (özellikle karaciğer), balık (özellikle kabuklular), mercimek, lifli yeşil sebzeler, tüm tahıllar (buğday dahil), bira mayası, peynir, süt, fındık, ayçiçeği ve susamda görülür. zehirli dozları kusma, diyare (ishal), huzursuzluk, mide rahatsızlığı, bağışıklık ve kansızlığa. Aşırı dozları HDL ("iyi") kolesterol seviyesini düşürüp kalp hastalığı riskini arttırabilir
